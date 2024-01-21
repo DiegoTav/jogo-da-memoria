@@ -18,8 +18,6 @@ Clique nas cartas e encontre todos os pares para vencer o jogo.
 2. Navegue até o diretório do projeto: `cd jogo-da-memoria`
 3. Execute o jogo abrindo o arquivo `index.html` em seu navegador web
 
-## Aprendizados
-
 # Melhorias Futuras
 
 Este projeto ainda tem espaço para melhorias e desenvolvimentos futuros. Abaixo estão algumas ideias que podem ser implementadas:
